@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'figaro', '~> 1.1.1'
 
 # Queues and workers and jobs, oh my!
-gem 'sidekiq', '~> 4.1.0'
+gem 'sidekiq', '~> 5.2.8'
 gem "sidekiq-cron", "~> 0.4.2"
 gem 'sidekiq-limit_fetch'
 
